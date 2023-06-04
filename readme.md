@@ -3,5 +3,4 @@
 Урок 2 (01_base_mappa_sketch) - Загрузка в основу html-страницы карты  
 Урок 3 (02_base webgl) - Базовый скетч с инициализацией библиотеки [p5.js](https://p5js.org/)  
 Урок 4 (03_leaflet-backed) - Загрузка тайлов через Leaflet via Mappa.js  
-Урок 5 (04_OSM) - Загрузка геоданных через Overpass API  
-Урок 6 (05_delaunay) - 
+Урок 5 (04_OSM) - Загрузка геоданных через Overpass API   
